@@ -17,6 +17,8 @@ _ ¿No te agrada este HTML? La magia del mismo es que lo podes bajar como un arc
 1. ** Click en Download zip **
 
     En ese momento baja un archivo zip a tu ordenador ¿Qué quiere decir .zip? Quiere decir que todos los datos se encuentran comprimidos.
+    
+    ![1](https://imgur.com/DrMnRoh)
 
 
 1. ** ¡Hora de descomprimir el zip! **
