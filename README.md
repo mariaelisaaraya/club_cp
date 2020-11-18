@@ -51,7 +51,7 @@ Un vistazo rápido a los archivos que se encuentran para el miércoles 18 de nov
 
 ## 🎓 Aprendiendo HTML
 
-¿Busca más INFO? Documentación completa de HTML [en el sitio web] (https://developer.mozilla.org/es/docs/HTML/HTML5). 
+_¿Busca más INFO? Documentación completa de HTML [en el sitio web]  (https://developer.mozilla.org/es/docs/HTML/HTML5)._
 
 
 ## 💫 Abri esta carpeta en Visual Studio o en tu ID de preferencia.
