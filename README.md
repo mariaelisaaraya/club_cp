@@ -49,16 +49,16 @@ Un vistazo rápido a los archivos que se encuentran para el miércoles 18 de nov
 
 4. ** `README.md` **: Un archivo de texto que contiene información de referencia útil sobre tu proyecto.
 
-## 🎓 Aprendiendo HTML
-
-_¿Busca más INFO? Documentación completa de HTML en https://developer.mozilla.org/es/docs/HTML/HTML5 ._
-
-
 ## 💫 Abri esta carpeta en Visual Studio o en tu ID de preferencia.
 
 ## Versionado 📌
 
 [HTML simple](https://elishitas.github.io/club_cp/web_html/).
+
+## 🎓 Aprendiendo HTML
+
+_¿Busca más INFO? Documentación completa de HTML en https://developer.mozilla.org/es/docs/HTML/HTML5 ._
+
 
 ## Autora ✒️
 * **Maria Elisa Araya** -Para el Club de Chicas Programadoras
