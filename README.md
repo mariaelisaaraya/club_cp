@@ -1,4 +1,3 @@
-<! - CONTENIDO AUTOMÁTICO: INICIO (ARRANQUE) ->
 <h1 align = "center">
   Arrancador con HTML
 </h1>
@@ -72,4 +71,3 @@ Un vistazo rápido a los archivos que se encuentran para el miércoles 18 de nov
 ---
 <> con ❤️
 
-<! - CONTENIDO GENERADO AUTOMÁTICAMENTE: FIN ->
