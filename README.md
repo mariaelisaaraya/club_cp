@@ -53,6 +53,9 @@ Un vistazo rápido a los archivos que se encuentran para el miércoles 18 de nov
 
 ## 💫 Abri esta carpeta en Visual Studio o en tu IDE de preferencia.
 
+![1](https://i.imgur.com/bwfDPQr.png)
+
+
 ## Versionado 📌
 
 [HTML simple](https://elishitas.github.io/club_cp/web_html/).
