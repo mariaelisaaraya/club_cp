@@ -1,5 +1,5 @@
 <h1 align = "center">
-  Arrancador con HTML
+  Arrancando con HTML
 </h1>
 
 Comenzamos con una idea estandar de lo que es un index.html
@@ -49,7 +49,7 @@ Un vistazo rápido a los archivos que se encuentran para el miércoles 18 de nov
 
 4. ** `README.md` **: Un archivo de texto que contiene información de referencia útil sobre tu proyecto.
 
-## 💫 Abri esta carpeta en Visual Studio o en tu ID de preferencia.
+## 💫 Abri esta carpeta en Visual Studio o en tu IDE de preferencia.
 
 ## Versionado 📌
 
