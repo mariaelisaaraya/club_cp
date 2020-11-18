@@ -8,9 +8,9 @@ _ ¿No te agrada este HTML? La magia del mismo es que lo podes bajar como un arc
 
 ## 🚀 Bajar este proyecto a tu compu
 
-1. ** Obseva la parte derecha donde se en cuentra el único botón verde. **
+1. ** Obseva la parte derecha donde se en cuentra el único botón verde. ** 
 
-    Realiza un click ahi y se va a desplegar 2 opciones
+    Realiza un click en ese lugar y se va a desplegar 2 opciones
       Clone
       Download Zip
 
