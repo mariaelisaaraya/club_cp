@@ -1,0 +1,37 @@
+/*Comentario en css*/
+/*
+3 elementos importantes:
+    Selector
+    propiedad
+    valor
+*/
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    color: salmon;
+    letter-spacing: 10px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: #FA8072;
+    letter-spacing: 3px;
+    text-align: right;
+    text-transform: lowercase;
+
+}
