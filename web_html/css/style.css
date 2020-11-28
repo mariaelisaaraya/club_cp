@@ -6,6 +6,11 @@
     valor
 */
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 40px;
@@ -16,12 +21,30 @@ h1 {
     text-align: center;
     text-decoration: underline;
     text-transform: uppercase;
+    padding: 20px;
 
 }
 
+nav {
+    background-color: pink;
+    padding: 20px;
+}
+
+nav ul li {
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+    font-size: 24px;
+
+}
+
+nav ul li a:hover {
+    font-weight: bold;
+}
 nav ul li a {
     text-decoration: none;
     text-transform: capitalize;
+    color:white;
 }
 
 h2 {
@@ -34,4 +57,8 @@ h2 {
     text-align: right;
     text-transform: lowercase;
 
+}
+
+h3 {
+    border-bottom: 3px violet solid;
 }
