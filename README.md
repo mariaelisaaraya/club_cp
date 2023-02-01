@@ -66,13 +66,11 @@ _¿Busca más INFO? Documentación completa de HTML en https://developer.mozilla
 
 
 ## Autora ✒️
-* **Maria Elisa Araya** -Para el Club de Chicas Programadoras
+**Lisa** -Para el Club de Chicas Programadoras
 
-
-## Expresiones de Gratitud 🎁
-
-* Gracias por pasar 📢 y ahora a coder
+* Gracias por pasar 📢 y ahora a teclear el teclado
 
 ---
+
 <> con ❤️
 
